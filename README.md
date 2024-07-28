@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Flask**
 
-- ⚡ Github Stats <img align="left" alt="Mirza Junaid's Github Stats" src="https://github-readme-stats-uygj.vercel.app/api?username=22f1000870&show_icons=true&hide_border=true" />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_mirza_junaid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mirza_junaid_" height="30" width="40" /></a>
