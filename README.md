@@ -3,7 +3,7 @@
 <details>
   <summary>:zap:Github Stats</summary>
 
-  <img align-"left" alt="Mirza Junaid's Github Stats" src="https://github-readme-stats-uygj.vercel.app/api?username=22f1000870&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mirza Junaid's Github Stats" src="https://github-readme-stats-uygj.vercel.app/api?username=22f1000870&show_icons=true&hide_border=true" />
 
 </details>
 
