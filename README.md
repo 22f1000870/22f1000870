@@ -1,6 +1,11 @@
 ## Hi there 👋
 
+<details>
+  <summary>:zap:Github Stats</summary>
 
+  <img align-"left" alt="Mirza Junaid's Github Stats" src="https://github-readme-stats-alpha-three-80.vercel.app/api?username=22f1000870&show_icons=true&hide_border=true" />
+
+</details>
 
 
 Here are some ideas to get you started:
@@ -13,3 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
