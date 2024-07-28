@@ -17,9 +17,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,vue,flask,linux,django,postman,css,html,python,javascript,redis" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,vue,flask,linux,django,postman,css,html,python,javascript,redis,github" />
   </a>
 </p>
 
