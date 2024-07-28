@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,vue,python,flask,django,postman,linux,java,redis,postgres,sqlite,jinja2,git,github,anaconda,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,vue,python,flask,django,postman,linux,java,redis,postgres,sqlite,git,github,anaconda,vscode" />
   </a>
 </p>
 
