@@ -21,9 +21,7 @@
 
 Received a best grade of S / A in a Programming Course in the BS in Data Science and Applications Program.
 
-_Awarded: 04 Oct 2024_
-
-  **2) 🚗 Vehicle Parking Application
+**2) 🚗 Vehicle Parking Application
 (Decoupled Front-end and Back-end)   
 (Distributed Architecture)
 Used Celery for asynchronous jobs, Redis for caching, Flask for REST-API and Vue3 for Front-end.**
