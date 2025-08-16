@@ -9,10 +9,10 @@
 
 - 🧑🏻‍💻 Cooked Projects so far:
   
-  **1) Influencer Engagement and Sponsorship Co-ordination Platform
+  **1) Influencer Engagement and Sponsorship Co-ordination Platform.  
 (Tightly coupled Front-end and Back-end using Flask)**
 
-**2) Vehicle Parking Application (Decoupled Front-end and Back-end;(Distributed Architecture)
+  **2) Vehicle Parking Application (Decoupled Front-end and Back-end;(Distributed Architecture)
 Used Celery for asynchronous jobs, Redis for caching, Flask for REST-API and Vue3 for Front-end).**
 
 - 🌱 I’m currently learning **Flask and Vue JS**
