@@ -12,7 +12,7 @@
   **1) Influencer Engagement and Sponsorship Co-ordination Platform.  
 (Tightly coupled Front-end and Back-end using Flask)**
 
-  **2) Vehicle Parking Application (Decoupled Front-end and Back-end
+  **2) Vehicle Parking Application (Decoupled Front-end and Back-end)   
 (Distributed Architecture)
 Used Celery for asynchronous jobs, Redis for caching, Flask for REST-API and Vue3 for Front-end.**
 
