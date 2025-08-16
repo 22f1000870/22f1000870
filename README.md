@@ -11,6 +11,7 @@
   
   **1) 💃🏻 Influencer Engagement and Sponsorship Co-ordination Platform.
   (Tightly coupled Front-end and Back-end using Flask)**
+  
   <img align="center" src="https://ds.study.iitm.ac.in/openbadges/badge/BA10.svg" alt="IIT Madras Best Grades Badge" width="180">
   
   **IIT MADRAS**
