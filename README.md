@@ -9,7 +9,7 @@
 
 ### 🧑🏻‍💻 Cooked Projects so far:
   
-  **1) 💃🏻 Influencer Engagement and Sponsorship Co-ordination Platform.**
+  ### 1) 💃🏻 Influencer Engagement and Sponsorship Co-ordination Platform.
   
   (Tightly coupled Front-end and Back-end using **Flask**)
   
@@ -17,13 +17,13 @@
   
   **IIT MADRAS**
   
-  ### Best Grades in a Programming Capstone Project
+  **Best Grades in a Programming Capstone Project**
   
   **Course:** Modern Application Development I - Project
   
   Received a best grade of S in a Programming Course in the BS in Data Science and Applications Program.
   
-  **2) 🚗 Vehicle Parking Application**
+  ### 2) 🚗 Vehicle Parking Application
   
   (Decoupled Front-end and Back-end)
   
