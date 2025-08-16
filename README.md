@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=22f1000870" alt="22f1000870" /></a> </p>
 
-- 🔭 I’m currently working on **Vehicle Parking App**
+- 🔭 I’m currently cooking a **Machine Learning Model**
 
 - 🌱 I’m currently learning **Flask and Vue JS**
 
