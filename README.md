@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Vehicle Parking App**
 
-- 🌱 I’m currently learning **Django , Flask and Vue JS**
+- 🌱 I’m currently learning **Flask and Vue JS**
 
 - 💬 Ask me about **Flask**
 
