@@ -19,7 +19,7 @@
 
 **Course:** Modern Application Development I - Project
 
-Received a best grade of S / A in a Programming Course in the BS in Data Science and Applications Program.
+Received a best grade of S in a Programming Course in the BS in Data Science and Applications Program.
 
 **2) 🚗 Vehicle Parking Application
 (Decoupled Front-end and Back-end)   
