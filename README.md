@@ -9,15 +9,26 @@
 
 - 🧑🏻‍💻 Cooked Projects so far:
   
-  **1) 💃🏻 Influencer Engagement and Sponsorship Co-ordination Platform.  
+**1) 💃🏻 Influencer Engagement and Sponsorship Co-ordination Platform.
 (Tightly coupled Front-end and Back-end using Flask)**
+<img align="center" src="https://ds.study.iitm.ac.in/openbadges/badge/BA10.svg" alt="IIT Madras Best Grades Badge" width="180">
+
+**IIT MADRAS**
+
+### Best Grades in a Programming Capstone Project
+
+**Course:** Modern Application Development I - Project
+
+Received a best grade of S / A in a Programming Course in the BS in Data Science and Applications Program.
+
+_Awarded: 04 Oct 2024_
 
   **2) 🚗 Vehicle Parking Application
 (Decoupled Front-end and Back-end)   
 (Distributed Architecture)
 Used Celery for asynchronous jobs, Redis for caching, Flask for REST-API and Vue3 for Front-end.**
 
-- 🌱 I’m currently learning **Flask and Vue JS**
+- 🌱 I’m currently learning **Machine Learning and GenAI**
 
 - 💬 Ask me about **Flask**
 
