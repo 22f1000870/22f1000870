@@ -28,6 +28,16 @@
   (Decoupled Front-end and Back-end)
   
   (Distributed Architecture)
+
+  <img align="center" src="https://ds.study.iitm.ac.in/openbadges/badge/BA10.svg" alt="IIT Madras Best Grades Badge" width="180">
+
+  **IIT MADRAS**
+  
+  **Best Grades in a Programming Capstone Project**
+  
+  **Course:** Modern Application Development II - Project
+  
+  Received a best grade of S in a Programming Course in the BS in Data Science and Applications Program.
   
   **Celery and Flask-Mail** for asynchronous jobs, **Redis** for caching, **Flask** for REST-API and **Vue3** for Front-end.
 
