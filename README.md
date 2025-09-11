@@ -25,7 +25,7 @@
   
   ### 2) 🚗 Vehicle Parking Application
   
-  (Decoupled Front-end and Back-end)
+  (Decoupled Front-end, Back-end and Asynchronous Batch Jobs)
   
   (Distributed Architecture)
 
