@@ -62,4 +62,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=22f1000870&show_icons=true&locale=en" alt="22f1000870" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=22f1000870&" alt="22f1000870" /></p>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=22f1000870)](https://github.com/anuraghazra/github-readme-stats)
