@@ -24,6 +24,8 @@ A domain-specific **MCQ Solver** designed to understand questions, identify rele
 - Designed for solving structured multiple-choice questions
 - Focused on improving prediction accuracy within a specific knowledge domain
 
+🚀 **Use the trained model:** [Hugging Face Model](https://mcq-app-mirza.streamlit.app/)
+
 <img align="center" src="https://ds.study.iitm.ac.in/openbadges/badge/BA10.svg" alt="IIT Madras Best Grades Badge" width="180">
 
 **IIT MADRAS**
@@ -46,7 +48,7 @@ A **Transformer-based Natural Language Processing model** built by fine-tuning *
 - Custom training and evaluation pipeline
 - Context-aware text representation using Transformers
 
-🚀 **Use the trained model:** [Hugging Face Model](https://mcq-app-mirza.streamlit.app/)
+
 
 <img align="center" src="https://ds.study.iitm.ac.in/openbadges/badge/BA10.svg" alt="IIT Madras Best Grades Badge" width="180">
 
