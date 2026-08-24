@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirza Junaid</h1>
 <h3 align="center">AI Engineer, Data Engineer, Data Scientist & Full Stack Web Developer</h3>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=22f1000870&label=Profile%20views&color=0e75b6&style=flat" alt="22f1000870" />
 </p>
 <p align="left">
@@ -11,7 +11,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=22f1000870" alt="22f1000870" />
   </a>
-</p>
+</p> -->
 
 - 🔭 I’m currently cooking a **Deep Learning Model**
 
