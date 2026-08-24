@@ -36,7 +36,7 @@ A domain-specific **MCQ Solver** designed to understand questions, identify rele
 
 **Course:** Deep Learning and Generative AI - Project
 
-Received a best grade of **S** in a Deep Learning and Generative AI Programming Project in the BS in Data Science and Applications Program.
+Received a best grade of **S** in a Deep Learning and Generative AI Project in the BS in Data Science and Applications Program.
 
 ---
 
@@ -85,7 +85,7 @@ The final prediction system combined:
 
 **Best Grade in a Data Science Project**
 
-Received a best grade of **S** in the project.
+Received a best grade of **S** in a Machine Learning Project in the BS in Data Science and Applications Program.
 
 ---
 
