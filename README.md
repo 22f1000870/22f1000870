@@ -63,7 +63,7 @@ The final prediction system combines **XGBoost, Logistic Regression, and a Logis
 
 **IIT MADRAS**
 
-**Best Grade in a Data Science Project**
+**Best Grade in a Machine Learning Project**
 
 Received a best grade of **S** in a Machine Learning Project in the BS in Data Science and Applications Program.
 
@@ -79,7 +79,7 @@ Received a best grade of **S** in a Machine Learning Project in the BS in Data S
 
 **IIT MADRAS**
 
-**Best Grades in a Programming Capstone Project**
+**Best Grades in Modern Application Development Capstone Project**
 
 **Course:** Modern Application Development II - Project
 
@@ -104,7 +104,7 @@ Received a best grade of **S** in a Programming Course in the BS in Data Science
 
 **IIT MADRAS**
 
-**Best Grades in a Programming Capstone Project**
+**Best Grades in Modern Application Development Capstone Project**
 
 **Course:** Modern Application Development I - Project
 
