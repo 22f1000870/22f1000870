@@ -69,23 +69,7 @@ Received a best grade of **S** in a Machine Learning Project in the BS in Data S
 
 ---
 
-### 3) 💃🏻 Influencer Engagement and Sponsorship Co-ordination Platform
-
-(Tightly coupled Front-end and Back-end using **Flask**)
-
-<img align="center" src="https://ds.study.iitm.ac.in/openbadges/badge/BA10.svg" alt="IIT Madras Best Grades Badge" width="180">
-
-**IIT MADRAS**
-
-**Best Grades in a Programming Capstone Project**
-
-**Course:** Modern Application Development I - Project
-
-Received a best grade of **S** in a Programming Course in the BS in Data Science and Applications Program.
-
----
-
-### 4) 🚗 Vehicle Parking Application
+### 3) 🚗 Vehicle Parking Application
 
 (Decoupled Front-end, Back-end and Asynchronous Batch Jobs)
 
@@ -108,6 +92,23 @@ Received a best grade of **S** in a Programming Course in the BS in Data Science
 - **Flask** for REST APIs
 - **Vue 3** for Front-end
 - Distributed application architecture
+
+
+---
+
+### 4) 💃🏻 Influencer Engagement and Sponsorship Co-ordination Platform
+
+(Tightly coupled Front-end and Back-end using **Flask**)
+
+<img align="center" src="https://ds.study.iitm.ac.in/openbadges/badge/BA10.svg" alt="IIT Madras Best Grades Badge" width="180">
+
+**IIT MADRAS**
+
+**Best Grades in a Programming Capstone Project**
+
+**Course:** Modern Application Development I - Project
+
+Received a best grade of **S** in a Programming Course in the BS in Data Science and Applications Program.
 
 ---
 
