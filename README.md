@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mirza Junaid</h1>
 <h3 align="center">AI/ML Engineer, Data Engineer, Data Scientist & Full Stack Web Developer</h3>
 
+**Official Profile** : [IITM Profile](https://ds.study.iitm.ac.in/student/22f1000870)
+
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=22f1000870&label=Profile%20views&color=0e75b6&style=flat" alt="22f1000870" />
 </p>
